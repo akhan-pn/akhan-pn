@@ -2,17 +2,11 @@
 <h3 align="center">A passionate full-stack MERN & Mobile App developer</h3>
 
 - 🌱 Forever a student, I've dedicated myself to continuous learning in full-stack and mobile development
-
 - 💻 Currently working with **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
-
 - 📱 Building cross-platform mobile applications with **React Native & NativeWind**
-
 - 🚀 Creating scalable web applications and mobile apps from frontend to backend
-
 - 💬 Ask me about **JavaScript, React, React Native, Node.js, Express, MongoDB, RESTful APIs, NativeWind**
-
 - 🛠️ Experience with **Database design, Server-side development, Mobile UI/UX, and Modern web/mobile technologies**
-
 - 📫 How to reach me **aymanmd.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -49,3 +43,7 @@
 📊 <strong>Mobile UI/UX</strong> - Creating intuitive mobile interfaces
 </p>
 
+<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aymankhan89/aymankhan89/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
