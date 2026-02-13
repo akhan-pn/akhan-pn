@@ -7,7 +7,7 @@
 - 🚀 Creating scalable web applications and mobile apps from frontend to backend
 - 💬 Ask me about **JavaScript, React, React Native, Node.js, Express, MongoDB, RESTful APIs, NativeWind**
 - 🛠️ Experience with **Database design, Server-side development, Mobile UI/UX, and Modern web/mobile technologies**
-- 📫 How to reach me **aymanmd.work@gmail.com**
+- 📫 How to reach me **khanayman080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
