@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=js" height="60" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" />
-</p>
+</p> -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="17" />
