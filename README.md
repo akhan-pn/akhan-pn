@@ -102,6 +102,8 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
+
+<a href="https://app.daily.dev/ayman16"><img src="https://api.daily.dev/devcards/v2/wVUKll7lGzIKz4KMjLBao.png?type=default&r=tls" width="356" alt="ayman's Dev Card"/></a>
 <h3 align="left">Mobile Development:</h3>
 <p align="left">
 📱 <strong>React Native</strong> - Cross-platform mobile app development<br>
